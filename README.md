@@ -36,3 +36,6 @@ The Clinic/Hospital Application is designed for managing clinic or hospital oper
 
 ## Conclusion
 The Medical Management System is a versatile platform that provides comprehensive healthcare management solutions. From patient bookings and doctor consultations to administrative control and facility management, each application is designed to streamline healthcare processes and improve patient care, with the added benefit of Firebase Cloud Messaging for efficient communication and notification delivery.
+
+
+![WhatsApp Image 2024-05-16 at 8 43 05 PM](https://github.com/ahmedzaki147258/Eshfaa/assets/130254480/da99da6c-78b7-4fed-8b6f-335b704aedfd)
